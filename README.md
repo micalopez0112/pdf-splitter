@@ -1,1 +1,2 @@
-# pdf-splitter
+streamlit
+PyPDF2
